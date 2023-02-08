@@ -8,7 +8,7 @@ public class githubProfileReadMe {
 	
 	HashMap <String, String> education = new HashMap<>();
 	education.put("Associates Degree", "Electronic Systems Principles, Community College of the Air Force");
-	education.put("Bachelors Degree", "Software Development, Western Governors University");
+	education.put("Bachelors Degree", "Software Engineering, Western Governors University");
 	
 	String[] certifications = new String[1];
 	certifications[0] = "CompTIA A+ Certified";
