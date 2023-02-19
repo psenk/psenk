@@ -10,8 +10,9 @@ public class githubProfileReadMe {
 	education.put("Associates Degree", "Electronic Systems Principles, Community College of the Air Force");
 	education.put("Bachelors Degree", "Software Engineering, Western Governors University");
 	
-	String[] certifications = new String[1];
+	String[] certifications = new String[2];
 	certifications[0] = "CompTIA A+ Certified";
+	certifications[1] = "CompTIA Project+ Certified";
 	
 	ArrayList<String> priorJobExperience = new ArrayList<>();
 	priorJobExperience.add("United States Air Force, RPA Communications Technician, 11 years");
