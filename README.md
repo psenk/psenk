@@ -25,4 +25,10 @@ public class githubProfileReadMe {
 	languages.add("CSS");
 	languages.add("JavaScript");
 	languages.add("SQL");
+
+ 	/* 
+  	* Experience with:
+   	* Figma
+  	* Spring
+   	*/
 }
