@@ -3,7 +3,7 @@ public class githubProfileReadMe {
 	String firstName = "Paul", middleName = "Tyler", lastName = "Senkbeil";
 	String preferredName = "Tyler";
 	String description = "Aspiring developer, hoping to focus on back-end or game development, currently in school and practicing every day.";
-	int age = 31;
+	int age = 32;
 	String contactInfoEmail = "psenk168@gmail.com";
 	
 	HashMap <String, String> education = new HashMap<>();
