@@ -1,34 +1,19 @@
-public class githubProfileReadMe {
+PT Senkbeil, 32, call me Tyler
+Aspiring dev, hoping to focus on back-end or game development, currently in school and practicing every day.
+psenk168@gmail.com
 
-	String firstName = "Paul", middleName = "Tyler", lastName = "Senkbeil";
-	String preferredName = "Tyler";
-	String description = "Aspiring developer, hoping to focus on back-end or game development, currently in school and practicing every day.";
-	int age = 32;
-	String contactInfoEmail = "psenk168@gmail.com";
-	
-	HashMap <String, String> education = new HashMap<>();
-	education.put("Associates Degree", "Electronic Systems Principles, Community College of the Air Force");
-	education.put("Bachelors Degree", "Software Engineering, Western Governors University");
-	
-	String[] certifications = new String[3];
-	certifications[0] = "CompTIA A+ Certified";
-	certifications[1] = "CompTIA Project+ Certified";
-	certifications[2] = "AWS Certified Cloud Practitioner";
-	
-	ArrayList<String> priorJobExperience = new ArrayList<>();
-	priorJobExperience.add("United States Air Force, RPA Communications Technician, 11 years");
-	
-	ArrayList<String> languages = new ArrayList<>();
-	languages.add("Java");
-	languages.add("Python");
-	languages.add("HTML");
-	languages.add("CSS");
-	languages.add("JavaScript");
-	languages.add("SQL");
+AS, Electronic Systems Principles - Community College of the Air Force
+BS, Software Engineering - Western Governors University
 
- 	/* 
-  	* Experience with:
-   	* Figma
-  	* Spring
-   	*/
-}
+CompTIA A+ Certified
+CompTIA Project+ Certified
+AWS Certified Cloud Practitioner
+
+United States Air Force, 11 years
+RPA Communications Systems
+
+Java, Python
+HTML, CSS, JavaScript
+SQL, MySQL
+
+Figma, Spring, Git, Godot
