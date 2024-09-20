@@ -1,8 +1,10 @@
-PT Senkbeil, 32, call me Tyler
+PT Senkbeil, 33, call me Tyler
 
 Aspiring dev, hoping to focus on back-end or game development, currently in school and practicing every day.
 I love making Discord bots!
 psenk168@gmail.com
+
+Current Project: C++ 6502 CPU Emulator
 
 AS, Electronic Systems Principles - Community College of the Air Force
 BS, Software Engineering - Western Governors University
