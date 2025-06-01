@@ -1,10 +1,10 @@
 PT Senkbeil, 33, call me Tyler
 
-Aspiring dev, hoping to focus on back-end or game development, currently in school and practicing every day.
+Aspiring dev, hoping to focus on back-end or game development, currently practicing every day.
 I love making Discord bots!
 psenk168@gmail.com
 
-Current Project: Catching up on Advent of Code 2024
+Current Project: 6502 processor emulator in C++
 
 AS, Electronic Systems Principles - Community College of the Air Force
 BS, Software Engineering - Western Governors University
@@ -17,9 +17,10 @@ ITIL Axelos
 United States Air Force, 11 years
 RPA Communications Systems
 
-Java, Python
+Java, Python C++(ish!)
 HTML, CSS, JavaScript
 SQL, MySQL, PostgreSQL
+XML
 
-Figma, Spring, Git, Godot
+Figma, Spring, Git, Godot, Agile
 Microsoft Office
