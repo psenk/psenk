@@ -4,7 +4,7 @@ Aspiring dev, hoping to focus on back-end or game development, currently practic
 I love making Discord bots!
 psenk168@gmail.com
 
-Current Project: 6502 processor emulator in C++
+Current Project: Personal website
 
 AS, Electronic Systems Principles - Community College of the Air Force
 BS, Software Engineering - Western Governors University
