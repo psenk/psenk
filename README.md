@@ -1,10 +1,12 @@
 PT Senkbeil, 34, call me Tyler
 
 Aspiring dev, hoping to focus on back-end or game development, currently practicing every day.
-I love making Discord bots!
+
+https://www.tsenk.xyz
+
 psenk168@gmail.com
 
-Current Project: Personal website
+Current Project: Runelite plugin, Java
 
 AS, Electronic Systems Principles - Community College of the Air Force
 BS, Software Engineering - Western Governors University
@@ -17,9 +19,9 @@ ITIL Axelos
 United States Air Force, 11 years
 RPA Communications Systems
 
-Java, Python C++(ish!)
+Java, Python, C++(ish!)
 HTML, CSS, JavaScript
-SQL, MySQL, PostgreSQL
+SQL, MySQL, PostgreSQL, SQLite
 XML
 
 Figma, Spring, Git, Godot, Agile
