@@ -6,7 +6,7 @@ https://www.tsenk.xyz
 
 psenk168@gmail.com
 
-Current Project: Runelite plugin, Java
+Current Project: Tak Android App
 
 AS, Electronic Systems Principles - Community College of the Air Force
 BS, Software Engineering - Western Governors University
